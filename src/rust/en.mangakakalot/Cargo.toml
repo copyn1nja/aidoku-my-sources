@@ -1,0 +1,8 @@
+[package]
+name = "en-mangakakalot"
+version = "0.1.0"
+edition = "2021"
+authors = ["copyn1nja"]
+
+[dependencies]
+aidoku = "0.4.0"
