@@ -1,0 +1,6 @@
+[sources.en-mangakakalot]
+id = "en-mangakakalot"
+lang = "en"
+name = "Mangakakalot"
+nsfw = false
+version = "0.1.0"
